@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "PlayAsGabbro2.dll",
+  "author": "Vambok",
+  "name": "Play As Gabbro 2",
+  "uniqueName": "Vambok.PlayAsGabbro2",
+  "version": "1.0.0",
+  "owmlVersion": "2.15.1",
+  "dependencies": ["xen.EnableMeditation"]
+}
